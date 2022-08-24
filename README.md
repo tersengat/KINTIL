@@ -17,3 +17,4 @@ https://www.amazon.com/Bajigur/dp/B0BBBW5CTX
 https://blog.ineuron.ai/Annotazione-sui-materiali-didattici-in-diversi-modi-6VwcpxhXaO
 https://techplanet.today/post/lavagne-interattive-nellambiente-educativo
 https://ameblo.jp/yinileon/entry-12760609085.html
+https://github.com/tersengat/KINTIL/edit/main/README.md
